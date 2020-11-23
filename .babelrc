@@ -1,0 +1,10 @@
+{
+    "plugins": [[
+        "auto-import", {
+            "declarations": [{
+                "default": "window.poly-decomp",
+                "path": "poly-decomp"
+            }]
+        }
+    ]]
+}

@@ -1,0 +1,15 @@
+canvas {
+        position: absolute;
+        left: 50%;
+        top: 0;
+        transform: translate(-50%, 0);
+      }
+      #chains {
+        background: url(./assets/img/banner.jpg);
+        background-size: 2200px 1050px;
+        background-repeat: no-repeat;
+        background-position: center top;
+        text-align: center;
+        position: relative;
+        overflow-x: hidden;
+      }

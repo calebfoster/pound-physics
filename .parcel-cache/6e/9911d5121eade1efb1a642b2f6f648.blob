@@ -1,0 +1,15 @@
+canvas {
+        position: absolute;
+        left: 50%;
+        top: 0;
+        transform: translate(-50%, 0);
+      }
+      #chains {
+        background: url(4326f3fb5a6e681574d2076c27e60e6a);
+        background-size: 2200px 1050px;
+        background-repeat: no-repeat;
+        background-position: center top;
+        text-align: center;
+        position: relative;
+        overflow-x: hidden;
+      }
